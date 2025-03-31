@@ -57,3 +57,5 @@ For more information about the ```rich``` module, check the https://rich.readthe
 - ```update <int:id> <str:description> <int:amount>``` - Update an expense with id, description and amount
 - ```list <optional:int:month>``` - View all expenses (use month to view specific month list)
 - ```summary <optional:int:month>``` - View a summary of all expenses (use month to view specific month summary)
+- ```exit``` - Exit from app
+- ```help <command>``` - See the description and usage of the command
