@@ -12,7 +12,7 @@ App was made with the ```cmd``` module
 
 For more information about the ```cmd``` module, check the https://docs.python.org/3/library/cmd.html
 
-```rich``` module used for make Expense Table and Colorful prints  
+```rich``` module used for make Expense Table and colorful prints  
 
 For more information about the ```rich``` module, check the https://rich.readthedocs.io/en/stable/introduction.html
 
